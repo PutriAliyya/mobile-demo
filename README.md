@@ -3,7 +3,7 @@ Flutter project.
 ## Getting Started
 
 Kelas 2D
-1.NIM - Nama
+1.361955401103 - Putri Aliyya W
 2. 
 
 Kelas 2E
